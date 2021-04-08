@@ -1,4 +1,4 @@
-### Aplicativo desenvolvido para OProjeto estimulo 2020
+### Aplicativo desenvolvido para O Projeto estimulo 2020
 
 - O projeto estímulo é um movimento sem fins lucrativos que oferece apoio financeiro e capacitação para pequenos empreendedores
 
