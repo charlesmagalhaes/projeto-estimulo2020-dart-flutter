@@ -1,16 +1,30 @@
-# teste_estimulo2020
+### Aplicativo desenvolvido para Projeto estimulo 2020
 
-A new Flutter project.
+##O projeto estímulo é um movimento sem fins lucrativos que oferece apoio financeiro e capacitação para pequenos empreendedores
 
-## Getting Started
+- Aplicativo permite visualizar a lista de cursos, um formulário para inscrição de projeto e area de consultoria.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tecnologia envolvida
+
+1. Visual Studio Code 1.54.1;
+1. Linguagem dart para desenvolvimento do backend;
+1. Flutter é um kit de desenvolvimento de interface de usuário;
+1. Compatibilidade com Android 4.4 KitKat +;
+1. Android Emulator para visualização da aplicação e teste;
+
+
+
+
+
+## Como "startar" a aplicação
+1. Clonar o projeto no diretório de sua preferência;
+1. Abrir o Visual Studio Code e importar a aplicação;
+1. Configurar um emulador ([click aqui);](https://developer.android.com/studio/run/emulator?hl=pt-br "click aqui")
+1. Após clicar em "Run" para "startar" a aplicação.
+
+## Navegar na aplicação
+O aplicativo dispoe de 3 telas principais, composta pela tela principal que pode ser visualizada ao "startar" a aplicação, após a tela de login. Outra tela tem o formulário e outra para consultoria.
