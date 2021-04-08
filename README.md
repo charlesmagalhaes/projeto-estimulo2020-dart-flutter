@@ -11,9 +11,6 @@
 
 
 
-
-
-
 ## Tecnologia envolvida
 
 1. Visual Studio Code 1.54.1;
