@@ -1,6 +1,6 @@
 ### Aplicativo desenvolvido para OProjeto estimulo 2020
 
-##O projeto estímulo é um movimento sem fins lucrativos que oferece apoio financeiro e capacitação para pequenos empreendedores
+- O projeto estímulo é um movimento sem fins lucrativos que oferece apoio financeiro e capacitação para pequenos empreendedores
 
 - Aplicativo permite visualizar a lista de cursos, um formulário para inscrição de projeto e area de consultoria.
 
